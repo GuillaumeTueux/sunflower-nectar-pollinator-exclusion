@@ -22,7 +22,7 @@ columns are documented in a header comment at the top of each script.
 | `merge_metschnikowia_otus.py` | Merged feature table / taxonomy / sequences from the R output | — |
 | `its_microbiome_analysis.R` | ITS import, filtering, alpha/beta diversity, camera-trap regressions | Figure 4A–C, S4–S6 |
 | `bacterial_16S.R` | 16S import, filtering, composition, beta diversity | Figure 3, S3 |
-| `voc_analysis.R` | Floral VOC treatment effects and beta diversity | Figure 5, S7, Table S8 |
+| `voc_analysis.R` | Floral VOC analysis | Figure 5, S7, Table S8 |
 | `nectar_traits.R` | Nectar volume, sugar mass, sugar composition | Figure 1B |
 | `pollinator_visits.R` | Camera-trap visit rates, day/night windows | Figure 2, Table S2 |
 | `culturability.R` | Culturable microbial load, growth scores | Figure 4D, Table S5 |
